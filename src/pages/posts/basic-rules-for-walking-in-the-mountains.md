@@ -1,5 +1,5 @@
 ---
-title: 'Today marks a day in the crypto '
+title: Today marks a day in the crypto market
 excerpt: '16-December, 2020'
 date: '2019-04-09'
 thumb_img_path: images/forex.jpg
