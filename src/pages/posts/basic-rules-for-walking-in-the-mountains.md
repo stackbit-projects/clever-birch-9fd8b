@@ -1,5 +1,5 @@
 ---
-title: What To Know in thecrypto market
+title: What To Know in the Crypto Market
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
   walking through dense forest, undergrowth, or bushes, where forward progress
