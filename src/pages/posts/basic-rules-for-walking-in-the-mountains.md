@@ -1,6 +1,6 @@
 ---
 title: What To Know in the Crypto Market
-excerpt: ''
+excerpt: '16-December, 2020'
 date: '2019-04-09'
 thumb_img_path: images/forex.jpg
 content_img_path: images/1.jpg
