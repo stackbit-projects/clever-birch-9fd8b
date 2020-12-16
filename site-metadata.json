@@ -3,7 +3,6 @@
     "header": {
         "title": "Fjord",
         "tagline": "Minimal and clean blog theme",
-        "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
             {
