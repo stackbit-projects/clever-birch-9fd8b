@@ -2,7 +2,7 @@
 title: All time HIGH in Bitcoin.
 excerpt: >-
   16-December, 2020. Bitcoin hit its all time high figure today. We almost
-  experienced 
+  experienced this 
 date: '2019-04-09'
 thumb_img_path: images/forex.jpg
 content_img_path: images/1.jpg
