@@ -1,6 +1,6 @@
 ---
 title: What To Know in the Crypto Market
-excerpt: Cryptocurrency is a digital currency that is soaring in the market
+excerpt: 'Cryptocurrency is a digital currency that is soaring in the market. It has a '
 date: '2019-04-09'
 thumb_img_path: images/forex.jpg
 content_img_path: images/1.jpg
