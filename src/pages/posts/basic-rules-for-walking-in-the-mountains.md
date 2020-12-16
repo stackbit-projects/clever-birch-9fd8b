@@ -1,5 +1,5 @@
 ---
-title: Today marks the time we all waited for  in the crypto market
+title: ''
 excerpt: '16-December, 2020'
 date: '2019-04-09'
 thumb_img_path: images/forex.jpg
